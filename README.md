@@ -18,7 +18,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
                                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/your-twitter" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+   <a href="https://twitter.com/your-twitter" target="blank">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" height="30" /></a>
 </p>
 
 ---
@@ -47,9 +48,9 @@
   </a>&nbsp;&nbsp;
  &nbsp;&nbsp;
 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  </a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45" height="45"/></a>
+  &nbsp;&nbsp;
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
