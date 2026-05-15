@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/cc94e710-cda1-49aa-a383-80d5b9dd8a25" align="right" alt="coding" width="340">
+<img src="https://github.com/user-attachments/assets/cc94e710-cda1-49aa-a383-80d5b9dd8a25" align="right" alt="coding" width="330">
 
 ### 🚀 About Me
 
