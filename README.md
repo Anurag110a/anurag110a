@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/cc94e710-cda1-49aa-a383-80d5b9dd8a25" align="right" alt="coding" width="330">
+<img src="https://cdn.dribbble.com/userupload/23767591/file/original-aa17958f8626ec38671cac60b1fd1d7f.gif" align="right" alt="coding" width="330">
 
 ### 🚀 About Me
 
@@ -43,8 +43,9 @@
   </a>&nbsp;&nbsp;
 
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="github" width="45" height="45"/>
   </a>&nbsp;&nbsp;
+ &nbsp;&nbsp;
 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
